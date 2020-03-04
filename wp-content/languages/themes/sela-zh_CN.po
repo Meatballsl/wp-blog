@@ -1,0 +1,388 @@
+# Translation of Themes - Sela in Chinese (China)
+# This file is distributed under the same license as the Themes - Sela package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-12-17 08:07:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Themes - Sela\n"
+
+#. Description of the plugin/theme
+msgid "Sela is not your typical business theme. Vibrant, bold, and clean, with lots of space for large images, this theme will look great on all devices, from desktop to mobile."
+msgstr "Sela不是您平常所见的商业主题。充满活力，大胆，干净，有大量的空间，大型图像，这个主题将在各种设备上，从桌面到移动设备，看起来很棒。"
+
+#. Theme Name of the plugin/theme
+msgid "Sela"
+msgstr "Sela"
+
+#. Template Name of the plugin/theme
+msgid "Grid Page"
+msgstr "格形网页"
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page"
+msgstr "全宽页面"
+
+#. Template Name of the plugin/theme
+msgid "Front Page"
+msgstr "首页"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "%s的搜索结果"
+
+#: inc/template-tags.php:428
+msgid "Archives"
+msgstr "归档"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:426
+msgid "%1$s: %2$s"
+msgstr "%1$s：%2$s"
+
+#: inc/template-tags.php:422
+msgid "Archives: %s"
+msgstr "存档：%s"
+
+#: inc/template-tags.php:419
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "聊天"
+
+#: inc/template-tags.php:417
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "音频"
+
+#: inc/template-tags.php:415
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "状态"
+
+#: inc/template-tags.php:413
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "链接"
+
+#: inc/template-tags.php:411
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "引语"
+
+#: inc/template-tags.php:409
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "视频"
+
+#: inc/template-tags.php:407
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "图像"
+
+#: inc/template-tags.php:405
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "相册"
+
+#: inc/template-tags.php:403
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "日志"
+
+#: inc/template-tags.php:400
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "Y年n月j日"
+
+#: inc/template-tags.php:400
+msgid "Day: %s"
+msgstr "日期：%s"
+
+#: inc/template-tags.php:398
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年m月"
+
+#: inc/template-tags.php:398
+msgid "Month: %s"
+msgstr "月份：%s"
+
+#: inc/template-tags.php:396
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: inc/template-tags.php:396
+msgid "Year: %s"
+msgstr "年份：%s"
+
+#: inc/template-tags.php:394
+msgid "Author: %s"
+msgstr "作者：%s"
+
+#: inc/template-tags.php:392
+msgid "Tag: %s"
+msgstr "标签：%s"
+
+#: inc/template-tags.php:390
+msgid "Category: %s"
+msgstr "分类：%s"
+
+#: inc/template-tags.php:333 inc/template-tags.php:335
+msgid "Posted in: %1$s"
+msgstr "发布于 ：%1$s"
+
+#: inc/template-tags.php:327
+msgid "<a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">Permalink</a>."
+msgstr "<a href=\"%3$s\" title=\"固定链接 to %4$s\" rel=\"bookmark\">固定链接</a>."
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:325 inc/template-tags.php:333
+msgid "Tagged: %2$s"
+msgstr "标签：%2$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:317
+msgid ", "
+msgstr "、"
+
+#: inc/template-tags.php:200
+msgid "% Comments"
+msgstr "%条评论"
+
+#: inc/template-tags.php:200
+msgid "1 Comment"
+msgstr "一条评论"
+
+#: inc/template-tags.php:200
+msgid "Leave a comment"
+msgstr "留下评论"
+
+#: inc/template-tags.php:189
+msgid "Featured"
+msgstr "特色"
+
+#: inc/template-tags.php:95
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正等待审核。"
+
+#: inc/template-tags.php:89
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: inc/template-tags.php:84
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s<span class=\"says\">说：</span>"
+
+#: inc/template-tags.php:75
+msgid "Pingback:"
+msgstr "Pingback引用通告："
+
+#: inc/template-tags.php:54
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\"></span>"
+msgstr "%title&nbsp;<span class=\"meta-nav\"></span>后一章帖文"
+
+#: inc/template-tags.php:53
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\"></span>&nbsp;%title"
+msgstr "<span class=\"meta-nav\"></span>&nbsp;%title 前一章帖文"
+
+#: inc/template-tags.php:50
+msgid "Post navigation"
+msgstr "文章导航"
+
+#: inc/template-tags.php:27
+msgid "Newer posts <span class=\"meta-nav\"></span>"
+msgstr "较新文章 <span class=\"meta-nav\"></span>"
+
+#: inc/template-tags.php:23
+msgid "<span class=\"meta-nav\"></span> Older posts"
+msgstr "<span class=\"meta-nav\"></span> 较旧文章"
+
+#: inc/template-tags.php:19
+msgid "Posts navigation"
+msgstr "文章导航"
+
+#: inc/extras.php:117
+msgid "Page %s"
+msgstr "第%s页"
+
+#: image.php:33
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr "发布 <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> 于 <a href=\"%3$s\" title=\"Link zum Bild in voller Größe\">%4$s &times; %5$s</a> 在 <a href=\"%6$s\" title=\"返回到 %7$s\" rel=\"gallery\">%8$s</a>"
+
+#: image.php:22
+msgid "Next <span class=\"meta-nav\"></span>"
+msgstr "下一个 <span class=\"meta-nav\"></span>"
+
+#: image.php:21
+msgid "<span class=\"meta-nav\"></span> Previous"
+msgstr "<span class=\"meta-nav\"></span> 上一个"
+
+#: header.php:37
+msgid "Menu"
+msgstr "菜单"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "跳至正文"
+
+#: functions.php:169
+msgid "Third Front Page Widget Area"
+msgstr "第三页面小部件区"
+
+#: functions.php:161
+msgid "Second Front Page Widget Area"
+msgstr "第二首页小工具区域"
+
+#: functions.php:153
+msgid "First Front Page Widget Area"
+msgstr "第一首页小工具区域"
+
+#: functions.php:145
+msgid "Third Footer Widget Area"
+msgstr "第三页脚小工具区域"
+
+#: functions.php:137
+msgid "Second Footer Widget Area"
+msgstr "第二页脚小工具区域"
+
+#: functions.php:129
+msgid "First Footer Widget Area"
+msgstr "第一页脚小工具区域"
+
+#: functions.php:121
+msgid "Main Sidebar"
+msgstr "主边栏"
+
+#. translators: If there are characters in your language that are not supported
+#. by Oswald, translate this to 'off'. Do not translate into your own language.
+#: functions.php:92
+msgctxt "Oswald font: on or off"
+msgid "on"
+msgstr "off"
+
+#. translators: If there are characters in your language that are not supported
+#. by Droid Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:87
+msgctxt "Droid Serif font: on or off"
+msgid "on"
+msgstr "off"
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:82
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:49
+msgid "Social Menu"
+msgstr "社交菜单"
+
+#: functions.php:48
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: footer.php:21
+msgid "Theme: %1$s by %2$s."
+msgstr "%1$s主题来自%2$s."
+
+#: footer.php:19
+msgid "Proudly powered by %s"
+msgstr "自豪地采用%s"
+
+#: footer.php:19
+msgid "A Semantic Personal Publishing Platform"
+msgstr "语义个人发布平台"
+
+#: content-none.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "我们可能无法找到您需要的内容。或许搜索功能可以帮到您。"
+
+#: content-none.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "抱歉，没有符合您搜索条件的结果。请换其它关键词再试。"
+
+#: content-none.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布第一篇文章了？<a href=\"%1$s\">从这里开始</a>。"
+
+#: content-none.php:11
+msgid "Nothing Found"
+msgstr "未找到"
+
+#: content-grid.php:26 content-page.php:25 content-testimonial.php:21
+#: image.php:53 inc/template-tags.php:75 inc/template-tags.php:99
+#: inc/template-tags.php:205 page-templates/front-page.php:28
+msgid "Edit"
+msgstr "编辑"
+
+#: inc/template-tags.php:228
+msgid "Permalink to %s"
+msgstr "链向%s的固定链接"
+
+#: content-aside.php:29 content-gallery.php:30 content-image.php:31
+#: content-link.php:28 content-page.php:19 content-quote.php:29
+#: content-video.php:29 content.php:36 image.php:73
+msgid "Pages:"
+msgstr "页面："
+
+#: content-aside.php:26 content-gallery.php:27 content-image.php:28
+#: content-link.php:25 content-quote.php:26 content-video.php:26 content.php:33
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "继续阅读 <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:48
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#: comments.php:26 comments.php:38
+msgid "Newer Comments &rarr;"
+msgstr "较新评论 &rarr;"
+
+#: comments.php:25 comments.php:37
+msgid "&larr; Older Comments"
+msgstr "&larr; 早期评论"
+
+#: comments.php:24 comments.php:36
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: comments.php:17
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "《%2$s》有%s个想法"
+
+#: archive-jetpack-testimonial.php:29
+msgid "Testimonials"
+msgstr "褒奖"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr " 看起来这个位置没有内容，试试下面的链接或搜索一下或许有帮助。"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "有点尴尬诶！该页无法显示。"
+
+#. Author URI of the plugin/theme
+msgid "https://wordpress.com/themes/"
+msgstr "https://cn.wordpress.com/themes/"
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.com/themes/sela/"
+msgstr "https://cn.wordpress.com/themes/sela/"
